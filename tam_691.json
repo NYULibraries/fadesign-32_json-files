@@ -1,0 +1,284 @@
+{
+    "ead": {
+        "Space": "urn:isbn:1-931666-22-9",
+        "Local": "ead"
+    },
+    "Text": "\n  \n  \n",
+    "xmlns": "urn:isbn:1-931666-22-9",
+    "xlink": "http://www.w3.org/1999/xlink",
+    "xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "schemaLocation": "urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd",
+    "eadheader": {
+        "Text": "\n    \n    \n    \n  ",
+        "countryencoding": "iso3166-1",
+        "dateencoding": "iso8601",
+        "findaidstatus": "collectionlevel",
+        "langencoding": "iso639-2b",
+        "repositoryencoding": "iso15511",
+        "eadid": {
+            "Text": "tam_691",
+            "countrycode": "US",
+            "mainagencycode": "US-NNU-TL",
+            "url": "http://dlib.nyu.edu/findingaids/html/tamwag/tam_691/"
+        },
+        "filedesc": {
+            "Text": "\n      \n      \n    ",
+            "titlestmt": {
+                "Text": "\n        \n        \n      ",
+                "titleproper": {
+                    "Text": "Guide to the David Havens Photographs on the Cuban Revolution\n            ",
+                    "num": "TAM.691"
+                },
+                "author": "Heather Mulliner"
+            },
+            "publicationstmt": {
+                "Text": "\n        \n        \n        \n      ",
+                "publisher": "Tamiment Library and Robert F. Wagner Labor Archives",
+                "p": {
+                    "date": "3/10/2016"
+                },
+                "address": {
+                    "Text": "\n          \n          \n          \n          \n          \n          \n        ",
+                    "addressline": [
+                        {
+                            "Text": "Elmer Holmes Bobst Library",
+                            "extptr": {}
+                        },
+                        {
+                            "Text": "70 Washington Square South",
+                            "extptr": {}
+                        },
+                        {
+                            "Text": "2nd Floor",
+                            "extptr": {}
+                        },
+                        {
+                            "Text": "New York, NY 10012",
+                            "extptr": {}
+                        },
+                        {
+                            "Text": "special.collections@nyu.edu",
+                            "extptr": {}
+                        },
+                        {
+                            "Text": "URL: ",
+                            "extptr": {
+                                "href": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                "show": "new",
+                                "title": "http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/",
+                                "type": "simple"
+                            }
+                        }
+                    ]
+                }
+            },
+            "editionstmt": {}
+        },
+        "profiledesc": {
+            "Text": "\n      \n      \n      \n    ",
+            "creation": {
+                "Text": "This finding aid was produced using ArchivesSpace on .",
+                "date": "2020-01-10 14:19:18\n          -0500"
+            },
+            "langusage": "Finding aid written in English",
+            "descrules": "Describing Archives: A Content Standard"
+        },
+        "revisiondesc": {}
+    },
+    "archdesc": {
+        "Text": "\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  ",
+        "level": "collection",
+        "did": {
+            "Text": "\n      \n      \n      \n      \n      \n      \n      \n      \n      \n    ",
+            "repository": {
+                "Text": "\n        \n      ",
+                "corpname": "Tamiment Library and Robert F. Wagner Labor Archives"
+            },
+            "unittitle": {
+                "Text": "David Havens Photographs on the Cuban Revolution"
+            },
+            "origination": [
+                {
+                    "Text": "\n        \n      ",
+                    "label": "Creator",
+                    "persname": {
+                        "Text": "Havens, David N.",
+                        "role": "dnr",
+                        "rules": "dacs",
+                        "source": "local"
+                    },
+                    "corpname": {}
+                }
+            ],
+            "unitid": [
+                {
+                    "Text": "TAM.691"
+                }
+            ],
+            "physdesc": [
+                {
+                    "Text": "\n        \n        \n      ",
+                    "altrender": "whole",
+                    "extent": [
+                        {
+                            "Text": "0.5 Linear Feet",
+                            "altrender": "materialtype spaceoccupied"
+                        },
+                        {
+                            "Text": "in 1 card box.",
+                            "altrender": "carrier"
+                        }
+                    ]
+                }
+            ],
+            "unitdate": [
+                {
+                    "Text": "1959-01-04-1959-01-08",
+                    "normal": "1959-01-04/1959-01-08",
+                    "type": "inclusive"
+                }
+            ],
+            "abstract": {
+                "Text": "David Havens is a former minister who\n        captured documentary photographs of the Cuban Revolution in 1959. The collection contains 51\n        black-and-white photographs Havens took during the Cuban Revolution. The photos in the\n        collection were taken during the first week of the revolution between January 4 and Fidel\n        Castro's arrival in Havana on January 8. Photographs include images of pro-Castro\n        demonstrations, revolutionary soldiers entering the city of Havana, and Cuban\n        architecture.",
+                "id": "aspace_812c814cb437c396cc59b07bdc042596"
+            },
+            "langmaterial": {
+                "Text": "Materials are in\n        English.",
+                "id": "aspace_ac9287cf9e42b50bcf165050d4c0839f",
+                "language": {}
+            },
+            "container": [
+                {
+                    "Text": "1",
+                    "altrender": "Box - 10 x 12",
+                    "id": "aspace_efa0cf940c261789975a9ff30cedce22",
+                    "label": "photographs [31142063269008]",
+                    "type": "box"
+                }
+            ]
+        },
+        "accessrestrict": {
+            "Text": "\n      \n      \n    ",
+            "id": "aspace_083303130710b9249f2048277b917f6b",
+            "head": "Conditions Governing Access",
+            "p": [
+                "Materials are open without restrictions."
+            ]
+        },
+        "acqinfo": {
+            "Text": "\n      \n      \n    ",
+            "id": "aspace_0ade9f9d8319e6251519439cd4cb2c61",
+            "head": "Immediate Source of Acquisition",
+            "p": [
+                {
+                    "Text": "Donated by David Havens in 2016. The accession number associated with this gift is\n        2017.008."
+                }
+            ]
+        },
+        "arrangement": {
+            "Text": "\n      \n      \n    ",
+            "id": "aspace_6a10635c0501d0f1573e50a4a8a7ed70",
+            "head": "Arrangement",
+            "p": [
+                {
+                    "Text": "This collection has not been arranged by an archivist. The materials are arranged in the\n        order in which they were received from the donor."
+                }
+            ],
+            "list": {}
+        },
+        "bioghist": {
+            "Text": "\n      \n      \n      \n    ",
+            "id": "aspace_28dd11022ae1993ffb390ace76956e01",
+            "head": "Biographical / Historical",
+            "p": [
+                {
+                    "Text": "David Havens is a former minister who captured documentary photographs of the Cuban\n        Revolution in 1959. Havens attended the Lexington Theological Seminary in Lexington,\n        Kentucky in the late 1950s. On January 1, 1959, during his winter break at the seminary he\n        read that Cuban President Fulgencio Batista had fled Cuba. Interested in witnessing the\n        Cuban Revolution first hand, Havens posed as a freelance journalist and traveled to Cuba\n        with no photography experience and a 35mm camera he had borrowed from his roommate. He\n        arrived in Havana several days later. While in Havana he accompanied a small band of armed\n        men keeping peace in the city and documenting the reaction of people in the streets. He\n        later witnessed the arrival of Fidel Castro and his army in Havana on January 8. Havens left\n        Cuba on January 8, shortly after Castro's arrival, and took hundreds of photos during his\n        short trip. When he returned to Kentucky wrote about his experience in the Lexington Herald.\n        Although he took hundreds of photos during his travels to Cuba only 51 have survived. ",
+                    "list": {}
+                },
+                {
+                    "Text": "Havens later settled in Hollister, California where he became a minister at the town's\n        First Christian Church.",
+                    "list": {}
+                }
+            ]
+        },
+        "prefercite": {
+            "Text": "\n      \n      \n    ",
+            "id": "aspace_5c46af849f08ed3bf40ed1121d0b31e8",
+            "head": "Preferred Citation",
+            "p": [
+                {
+                    "Text": "Identification of item, date; David Havens Photographs on the Cuban Revolution; TAM 691;\n        box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York\n        University."
+                }
+            ]
+        },
+        "processinfo": [
+            {
+                "Text": "\n      \n      \n    ",
+                "id": "aspace_dd85fb838b7ca24e322f11d392aa8cb2",
+                "head": "Processing Information",
+                "p": [
+                    {
+                        "Text": "Upon the receipt of the collection, damaged materials received conservation treatment to\n        flatten curled photograps at which time photographs were moved into archival housing. At the\n        time of accessioning a brief collection-level description was created to desribe the\n        contents of this collection.",
+                        "extref": {}
+                    }
+                ]
+            }
+        ],
+        "scopecontent": {
+            "Text": "\n      \n      \n    ",
+            "id": "aspace_7c5dd09a9046b044fce16ab2e0e59908",
+            "head": "Content Description",
+            "p": [
+                {
+                    "Text": "This collection includes 51 black and white photographs of the Cuban Revolution taken by\n        Minister David Havens. The photographs in the collection were taken during the first week of\n        the Cuban Revolution in 1959 between January 4 and Fidel Castro's arrival in Havana on\n        January 8. Photographs include images of pro-Castro demonstrations, revolutionary soldiers\n        entering the city of Havana, and Cuban architecture."
+                }
+            ]
+        },
+        "userestrict": {
+            "Text": "\n      \n      \n    ",
+            "id": "aspace_0c16acaccede74f74b6590bd59208b6c",
+            "head": "Conditions Governing Use",
+            "p": {
+                "Text": "Any rights (including copyright and related rights to publicity and privacy) held by David\n        Havens, the creator of this collection, were relinquished and transferred to the public\n        domain in 2016 by David Havens. These materials are governed by a Creative Commons CC0\n        license, which permits publication and reproduction of materials accompanied by full\n        attribution. See, https://creativecommons.org/licenses/."
+            }
+        },
+        "controlaccess": {
+            "Text": "\n      \n      \n      \n      \n      \n    ",
+            "genreform": [
+                {
+                    "Text": "Black-and-white photographs.",
+                    "source": "aat"
+                }
+            ],
+            "geogname": [
+                {
+                    "Text": "Cuba -- History -- Revolution, 1959.",
+                    "source": "lcsh"
+                },
+                {
+                    "Text": "Cuba -- History.",
+                    "source": "lcsh"
+                },
+                {
+                    "Text": "Havana (Cuba)",
+                    "source": "lcsh"
+                }
+            ],
+            "persname": [
+                {
+                    "Text": "Castro, Fidel, 1926-2016",
+                    "audience": "internal",
+                    "source": "naf"
+                }
+            ],
+            "occupation": {}
+        },
+        "dsc": {},
+        "separatedmaterial": {},
+        "bibliography": {},
+        "odd": {},
+        "custodhist": {},
+        "altformavail": {},
+        "accruals": {}
+    }
+}
